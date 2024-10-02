@@ -19,3 +19,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 - [SOC Automation Project](https://github.com/dybson3/SOC-Automation-Lab)
+- [Intro to Active Directory](https://github.com/dybson3/Intro-to-Active-Directory)
+- [Intro to Network Traffic Analysis](https://github.com/dybson3/Intro-to-Network-Traffic-Analysis) 
